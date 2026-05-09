@@ -43,7 +43,7 @@ Using Microsoft Excel, this project covers the complete data analysis workflow i
 # Dashboard Preview
 
 ## Full Dashboard
-![Dashboard Preview](\<img width="1071" height="587" alt="image" src="https://github.com/user-attachments/assets/30cd3d15-fea8-496b-a1bc-78a0471ad139" />)
+<img width="1712" height="794" alt="image" src="https://github.com/user-attachments/assets/3fbb118c-94c0-4660-82fc-f443bedaacb8" />
 
 ---
 
