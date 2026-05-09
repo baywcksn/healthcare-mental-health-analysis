@@ -1,44 +1,83 @@
 # Healthcare Workforce Mental Health Analysis
 
-A comprehensive data analysis project focused on exploring mental health conditions, workplace wellbeing, employee satisfaction, stress levels, and burnout trends among healthcare professionals. This project analyzes workforce-related factors that may contribute to employee dissatisfaction, mental fatigue, and turnover intention within the healthcare industry.
+## Project Overview
+A comprehensive data analysis project focused on exploring mental health conditions, workplace wellbeing, employee satisfaction, stress levels, and burnout trends among healthcare professionals. This project analyzes workforce-related factors that contribute to employee dissatisfaction, mental fatigue, and turnover intention within the healthcare industry.
 
-Using Microsoft Excel, this project covers the complete data analysis workflow starting from data cleaning, data preparation, exploratory data analysis (EDA), KPI calculation, dashboard development, and data visualization. The final interactive dashboard provides insights into employee mental health patterns across multiple healthcare departments and employee roles.
+Using Microsoft Excel, this project covers the complete data analysis workflow including data cleaning, exploratory data analysis (EDA), KPI calculation, dashboard development, and data visualization.
+
+---
 
 ## Project Objectives
-- Analyze mental health and wellbeing conditions among healthcare workers
-- Identify the main workplace factors contributing to stress and burnout
-- Evaluate employee satisfaction levels across departments and job roles
+- Analyze employee mental health and wellbeing conditions
+- Identify workplace factors contributing to stress and burnout
+- Evaluate job satisfaction across departments and employee roles
 - Measure turnover intention and workforce retention risk
-- Provide actionable insights that may support healthier workplace environments in healthcare organizations
+- Generate actionable workforce insights using data visualization
 
-## Tools & Skills Used
+---
+
+## Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
+- Dashboard Development
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-- KPI Dashboard Development
 - Data Visualization
-- Workforce Analytics
+
+---
+
+## Dataset Information
+- Total Employees: 5,000
+- Industry: Healthcare
+- Focus Area:
+  - Stress Level
+  - Burnout Frequency
+  - Job Satisfaction
+  - Workplace Factors
+  - Turnover Intention
+  - Employee Wellbeing
+
+---
+
+# Dashboard Preview
+
+## Full Dashboard
+![Dashboard Preview](\<img width="1071" height="587" alt="image" src="https://github.com/user-attachments/assets/30cd3d15-fea8-496b-a1bc-78a0471ad139" />)
+
+---
 
 ## Key Insights
-- Total employees analyzed: 5,000
-- Average job satisfaction score: 2.2/5
-- Turnover intention rate: 66.7%
-- Employees with access to EAP support: 71.9%
-- Heavy workload (42.8%) was identified as the primary workplace stress factor
-- 44.4% of employees frequently experienced burnout symptoms
-- Low job satisfaction was dominant across several healthcare departments and nursing-related roles
 
-## Dashboard Features
-- Workforce mental health KPI monitoring
-- Burnout frequency analysis
-- Workplace factor distribution analysis
-- Stress level distribution
-- Job satisfaction comparison by department
-- Job satisfaction comparison by employee type
+### Workforce Wellbeing
+- Average job satisfaction score was only **2.2/5**
+- Turnover intention reached **66.7%**
+- 71.9% of employees had access to Employee Assistance Programs (EAPs)
+
+### Burnout Analysis
+- 44.4% of employees frequently experienced burnout
+- 38.8% occasionally experienced burnout
+- Only 16.8% reported never experiencing burnout
+
+### Workplace Factors
+Main contributors to stress:
+- Heavy Workload (42.8%)
+- Poor Work Environment (22.4%)
+- Career Stagnation (10.6%)
+- Work-Life Imbalance (6.8%)
+
+### Department & Employee Analysis
+- Nursing and ICU-related roles showed consistently lower satisfaction levels
+- Several healthcare departments experienced dominant low satisfaction trends
+- Stress distribution was heavily concentrated between levels 7–9
+
+---
 
 ## Business Impact
-The analysis highlights critical workforce wellbeing issues within healthcare organizations, particularly regarding burnout risk, workload pressure, and employee retention challenges. These findings can help organizations better understand employee mental health conditions and support data-driven decision-making to improve workplace wellbeing strategies.
+This analysis highlights critical workforce wellbeing challenges within healthcare organizations, particularly related to workload pressure, burnout risk, and employee retention issues.
 
-This project demonstrates practical analytical skills in transforming raw workforce data into meaningful business insights through structured analysis and interactive dashboard reporting.
+The findings can support organizations in developing:
+- Better employee wellbeing strategies
+- Burnout prevention initiatives
+- Workforce retention programs
+- Healthier workplace environments
